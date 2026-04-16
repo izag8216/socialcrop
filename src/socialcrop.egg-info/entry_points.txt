@@ -1,0 +1,2 @@
+[console_scripts]
+socialcrop = socialcrop.cli:main

@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: socialcrop
+Version: 0.1.0
+Summary: Social media image resizer CLI with 15+ platform presets. Zero API, smart crop, batch export.
+Author: fuku
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/izag8216/socialcrop
+Project-URL: Repository, https://github.com/izag8216/socialcrop
+Keywords: social-media,image-resize,cli,instagram,twitter,crop
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Topic :: Utilities
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: Pillow>=10.0
+Requires-Dist: click>=8.1
+Requires-Dist: rich>=13.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.0; extra == "dev"
+Requires-Dist: ruff>=0.1; extra == "dev"
+
+# socialcrop
+
+Social media image resizer CLI with 15+ platform presets.
+
+*README coming soon.*
